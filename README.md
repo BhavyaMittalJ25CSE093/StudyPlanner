@@ -28,12 +28,6 @@ Study Planner was created as a personal academic companion — a simple digital 
 
 The application is designed to work **offline**, keeping student data stored locally on the computer.
 
-## 🚀 Current Status
-
-**Version 1.0 — Beta Testing**
-
-The application has been packaged as a standalone Windows executable and is currently being tested by users to identify bugs, usability issues, and possible improvements.
-
 ## 📸 Screenshots
 
 Screenshots of the application will be added soon.
