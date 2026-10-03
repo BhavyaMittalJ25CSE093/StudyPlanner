@@ -28,9 +28,13 @@ Study Planner was created as a personal academic companion — a simple digital 
 
 The application is designed to work **offline**, keeping student data stored locally on the computer.
 
-## 📸 Screenshots
+## 🌐 Live Web App
 
-Screenshots of the application will be added soon.
+Try Study Planner online:
+
+👉 https://studyplanner-cbucaqtuptzlrekkdjqvck.streamlit.app/
+
+A browser-based version of Study Planner is available for students who want to use the planner directly from the web.
 
 ## 🔮 Future Improvements
 
