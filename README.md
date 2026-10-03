@@ -1,7 +1,6 @@
 # 📚 Study Planner
 
-An offline-first desktop study planner built with **Python and Tkinter** to help students organize their academic tasks, subjects, deadlines, and priorities in one place.
-
+An offline-first study planner built with **Python, Tkinter, and Streamlit** to help students organize their academic tasks, subjects, deadlines, and priorities in one place.
 ## ✨ Features
 
 - 📝 Add, complete, and delete tasks
