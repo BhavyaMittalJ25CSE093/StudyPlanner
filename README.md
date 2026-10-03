@@ -32,7 +32,7 @@ The application is designed to work **offline**, keeping student data stored loc
 
 Try Study Planner online:
 
-👉 https://studyplanner-cbucaqtuptzlrekkdjqvck.streamlit.app/
+👉 [Launch Study Planner](https://studyplanner-cbucaqtuptzlrekkdjqvck.streamlit.app/)
 
 A browser-based version of Study Planner is available for students who want to use the planner directly from the web.
 
